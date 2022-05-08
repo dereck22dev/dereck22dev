@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Amour22
-- 👀 I’m interested in web and mobile developpement
-- 🌱 I’m currently learning PHP and python
-- 💞️ I'm available for any project
-- 📫 How to reach me? Just mail me: 
+Développeur web junior, passionné 🙂.
+
+Skill: J'utilise fréquemment html,css,JavaScript,
+PHP,react et beaucoups d'autres technologie.
+
+⏱️Toujours disponible...
+
+✉️contactez-moi via mon profil LinkedIn
+ou par email: amourdahou@yahoo.com
 
 <!---
 Amour22/Amour22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
