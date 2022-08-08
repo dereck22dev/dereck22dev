@@ -1,7 +1,7 @@
 Développeur web junior, passionné 🙂.
 
-Skill: J'utilise fréquemment html,css,JavaScript,nodejs,react,cordova,
-php,sql et beaucoups d'autres technologies.
+Skill: html,css,JavaScript,cordova,
+php,python,flask,sqlAlchemy,sql...
 
 ⏱️Toujours disponible...
 
