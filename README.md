@@ -1,4 +1,4 @@
-Développeur web junior, passionné 🙂.
+Développeur web junior 🙂.
 
 Skill: html,css,JavaScript,cordova,
 php,python,flask,sqlAlchemy,sql...
