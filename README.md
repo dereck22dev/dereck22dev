@@ -1,7 +1,7 @@
 Développeur web junior 🙂.
 
-Skill: html,css,JavaScript,cordova,
-php,python,flask,sqlAlchemy,sql...
+Skills: HTML,CSS,Bootstrap,JavaScript,jQuery,Cordova,
+Php,Python,Flask,sqlAlchemy,sql...
 
 ⏱️Toujours disponible...
 
