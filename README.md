@@ -1,6 +1,6 @@
 # 
 
-*Hi, moi c'est Amour DAHOU ... Développeur web junior, bienvenue sur mon mur sache que je suis disponible pour répondre à toutes tes préocupations n'hesite donc pas à m'écrire au besoins* 🙂.
+*Hi...I'm Amour DAHOU, I'm a junior web developper, welcome on my wall. Know that I am available to answer all your concerns so do not hesitate to write to me as needed.* 🙂.
 
 ## Skills
 
@@ -35,7 +35,7 @@
 2. <a href="mailto:amourdahou@yahoo.com">Email</a>
 
 
-⏱️ Je suis toujours disponible, veuilez bien vouloir me laisser un mail en cas de longues attentes.
+⏱️ I am always available, please leave me an email if I don't answer quickly.
 
 <!---
 Amour22/Amour22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
