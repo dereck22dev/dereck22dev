@@ -32,7 +32,8 @@
 ## Contact
 
 1. LinkedIn
-2. <a href="mailto:amourdahou@yahoo.com">Email</a>
+2. Twitter 
+3. <a href="mailto:amourdahou@yahoo.com">Email</a>
 
 
 ⏱️ I am always available, please leave me an email if I don't answer quickly.
