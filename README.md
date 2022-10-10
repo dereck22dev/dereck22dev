@@ -1,4 +1,4 @@
-Développeur web junior 🙂.
+Hi, moi c'est Amour DAHOU ... Développeur web junior, bienvenue sur mon mur sache que je suis disponible pour répondre à toutes tes préocupations n'hesite pas à me poser toutes tes questions 🙂.
 
 ## Skills
 
@@ -15,7 +15,6 @@ Développeur web junior 🙂.
 1. Php
 2. Python
 3. Flask
-4.
 
 ### DATABASE and RELATIVES
 
@@ -28,12 +27,13 @@ Développeur web junior 🙂.
 
 1. Cordova
 
-⏱️ Je suis toujours disponible, veuilez bien vouloir me laisser un mail en cas de longue attentes.
-
-✉️ ## Contact
+## Contact
 
 1. LinkedIn
 2. Email: amourdahou@yahoo.com
+
+
+⏱️ Je suis toujours disponible, veuilez bien vouloir me laisser un mail en cas de longues attentes.
 
 <!---
 Amour22/Amour22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
