@@ -1,3 +1,5 @@
+# 
+
 *Hi, moi c'est Amour DAHOU ... Développeur web junior, bienvenue sur mon mur sache que je suis disponible pour répondre à toutes tes préocupations n'hesite donc pas à m'écrire au besoins* 🙂.
 
 ## Skills
@@ -23,7 +25,7 @@
 3. PostgreSql
 4. sqlAlchemy
 
-### MORE FRAMEWORK
+### More Framework and Libraries
 
 1. Cordova
 
