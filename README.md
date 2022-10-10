@@ -1,4 +1,4 @@
-Hi, moi c'est Amour DAHOU ... Développeur web junior, bienvenue sur mon mur sache que je suis disponible pour répondre à toutes tes préocupations n'hesite donc pas à me poser toutes tes questions 🙂.
+*Hi, moi c'est Amour DAHOU ... Développeur web junior, bienvenue sur mon mur sache que je suis disponible pour répondre à toutes tes préocupations n'hesite donc pas à m'écrire au besoins* 🙂.
 
 ## Skills
 
