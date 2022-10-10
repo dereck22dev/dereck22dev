@@ -32,7 +32,7 @@
 ## Contact
 
 1. LinkedIn
-2. Email: amourdahou@yahoo.com
+2. <a href="mailto:amourdahou@yahoo.com">Email</a>
 
 
 ⏱️ Je suis toujours disponible, veuilez bien vouloir me laisser un mail en cas de longues attentes.
