@@ -12,18 +12,22 @@
 4. JavaScript
 5. jQuery
 
-### Backend and RELATIVES
+### Backend and Related 
 
 1. Php
 2. Python
 3. Flask
 
-### DATABASE and RELATIVES
+### DATABASE and Related
 
 1. SQL
 2. MySql
 3. PostgreSql
 4. sqlAlchemy
+
+### Content Management System 
+
+1. Wordpress
 
 ### More Framework and Libraries
 
@@ -36,7 +40,7 @@
 3. <a href="mailto:amourdahou@yahoo.com">Email</a>
 
 
-⏱️ I am always available, please leave me an email if I don't answer quickly.
+⏱️ I am always available, please leave me an email if I don't respond quickly.
 
 <!---
 Amour22/Amour22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
