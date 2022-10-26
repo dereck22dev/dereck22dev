@@ -1,6 +1,6 @@
 # 
 
-*Hi...I'm Amour DAHOU, I'm a junior web developper, welcome on my wall. Know that I am available to respond all your concerns so do not hesitate to text to me as needed.* 🙂.
+*Hi...I'm Amour DAHOU, I'm a junior web developper, welcome on my wall. Know that I am available to respond all your concerns so do not hesitate to write to me if you are needed.* 🙂.
 
 ## Skills
 
