@@ -14,16 +14,14 @@
 
 ### Backend and Related 
 
-1. Php
-2. Python
-3. Flask
+1. Python
+2. Flask
 
 ### DATABASE and Related
 
 1. SQL
 2. MySql
 3. PostgreSql
-4. sqlAlchemy
 
 ### Content Management System 
 
