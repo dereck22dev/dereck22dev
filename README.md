@@ -6,30 +6,19 @@
 
 ### Front-End and Web intégration
 
-1. HTML
-2. CSS
-3. Bootstrap
-4. JavaScript
-5. jQuery
+- HTML5
+- CSS3
+- JavaScript ES6
 
 ### Backend and Related 
 
-1. Python
-2. Flask
+- Python
 
 ### DATABASE and Related
 
-1. SQL
-2. MySql
-3. PostgreSql
-
-### Content Management System 
-
-1. Wordpress
-
-### More Framework and Libraries
-
-1. Cordova
+- SQL
+- MySql
+- PostgreSql
 
 ## Contact
 
