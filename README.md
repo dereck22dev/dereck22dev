@@ -16,7 +16,6 @@
 
 ### DATABASE and Related
 
-- SQL
 - MySql
 - PostgreSql
 
