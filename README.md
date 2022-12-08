@@ -2,23 +2,6 @@
 
 *Hi...I'm Amour DAHOU, I'm a junior web developper, welcome on my wall. Know that I am available to respond all your concerns so do not hesitate to write to me if you are needed.* 🙂.
 
-## Skills
-
-### Front-End and Web intégration
-
-- HTML5
-- CSS3
-- JavaScript ES6
-
-### Backend and Related 
-
-- Python
-
-### DATABASE and Related
-
-- MySql
-- PostgreSql
-
 ## Contact
 
 - <a href="https://www.linkedin.com/in/amour-dahou-45aba5232/">LinkedIn</a> 
