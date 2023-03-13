@@ -1,6 +1,6 @@
 # 
 
-*Welcome...I'm Amour DAHOU, I'm a junior web developper. Know that I am available to respond all your concerns so do not hesitate to write me if you are needed.* 🙂.
+*Hi...I'm Amour DAHOU (tell me dereck22 of course🙂), i am passionate web fulllsatck developer you can write me if you want to collaborate :).* .
 
 ## Contact
 
@@ -8,7 +8,7 @@
 - <a href="mailto:amourdahou@yahoo.com">Email</a>
 
 
-⏱️ I am always available, please leave me an email if I don't respond quickly.
+⏱️ I am always available, please leave me an mesage if I don't respond quickly.
 
 <!---
 Amour22/Amour22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
