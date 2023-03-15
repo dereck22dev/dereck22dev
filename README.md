@@ -1,6 +1,6 @@
 # 
 
-*Hi...I am Amour DAHOU, i'm passionate web fulllsatck developer (you can tell me dereck22 of course🙂)...you want to collaborate??? write me :).* .
+*Hi...I am Amour DAHOU, i'm passionate web fulllsatck developer (you can call me dereck22 of course🙂)...Need collaboration??? write me :).* .
 
 ## Contact
 
