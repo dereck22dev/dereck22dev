@@ -1,12 +1,6 @@
 # 
 
-*Hi...I am Amour DAHOU, i'm passionate web fulllsatck developer (you can call me dereck22 of course🙂)...Need collaboration??? write me :).* .
-
-## Contact
-
-- <a href="https://www.linkedin.com/in/amour-dahou-45aba5232/">LinkedIn</a> 
-- <a href="mailto:amourdahou@yahoo.com">Email</a>
-
+*Hi...i'm passionate web fulllsatck developer 🙂...Need collaboration??? you can write me :).* .
 
 ⏱️ I am always available, please leave me an mesage if I don't respond quickly.
 
