@@ -1,8 +1,8 @@
 # 
 
-*Hi...i'm passionate web fulllsatck developer 🙂...Need collaboration??? you can write me :).* .
+*Hi...i'm passionate web fullsatck developer 🙂...need collaboration?? you can write me :).*
 
-⏱️ I am always available, please leave me an mesage if I don't respond quickly.
+⏱️ I'm always available, please leave me a message if I don't respond quickly.
 
 <!---
 Amour22/Amour22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
