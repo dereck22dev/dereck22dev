@@ -62,6 +62,9 @@
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
   </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+  </a>
 </p>
 
 ## 📊 **GitHub Stats:**
