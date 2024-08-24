@@ -12,17 +12,6 @@
 - 👯 I’m looking to collaborate on **Node.js**, **AI**, **Blockchain**, and **VoIP** projects.
 - ⚡ **Fun fact**: Coding is my passion.
 
-## 🌐 **Socials:**
-
-<p>
-  <a href="https://www.linkedin.com/in/amour-dahou" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/amour_dahou" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"/>
-  </a>
-</p>
-
 ## 💻 **Tech Stack:**
 
 <p align="center">
