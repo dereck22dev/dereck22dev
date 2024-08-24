@@ -72,7 +72,7 @@
 </p>
 
 ## 📊 **GitHub Stats:**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dereck22dev&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dereck22dev&show_icons=true&theme=github_light)
 
 ## 🏆 **GitHub Trophies:**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dereck22dev&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dereck22dev&theme=github_light)
