@@ -28,6 +28,9 @@
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
   </a>
+   <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express.js"/>
+  </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
   </a>
