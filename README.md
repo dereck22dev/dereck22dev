@@ -1,6 +1,6 @@
 # 👋 **Hi, I'm dereck22** 🚀
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3100&color=36BCF7&lines=Fullstack+Developer;+and+Tech+Enthusiast;+Passionate+about;+DevOps,+CyberSecurity,+VoIP...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3100&color=428bef&lines=Fullstack+Developer;+and+Tech+Enthusiast;+Passionate+about;+DevOps;+CyberSecurity,+VoIP...)
 
 ## 💫 **About Me:**
 - 🔭 Currently working on **Web Application Development** and **VoIP** projects.
