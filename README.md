@@ -40,6 +40,12 @@
   <a href="https://www.php.net/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
   </a>
+    <a href="https://laravel.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="Laravel"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask"/>
+  </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/console.png" alt="Bash"/>
   </a>
