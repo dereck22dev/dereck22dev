@@ -29,16 +29,11 @@ Let's connect and collaborate on exciting projects! 🎯
   
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-<div>
-
-  ![](https://github-readme-stats.vercel.app/api?username=dereck22dev&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=dereck22dev&theme=vue-dark&hide_border=false)
-
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dereck22dev&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dereck22dev&theme=vue-dark&hide_border=false" alt="GitHub Streak" />
 </div>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dereck22dev&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dereck22dev&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 <div align="center">
