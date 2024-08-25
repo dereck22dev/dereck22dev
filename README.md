@@ -29,7 +29,14 @@ Let's connect and collaborate on exciting projects! 🎯
   
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=dereck22dev&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=dereck22dev&theme=vue-dark&hide_border=false)<br/>
+<div align="center">
+  
+<div>
+
+  ![](https://github-readme-stats.vercel.app/api?username=dereck22dev&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=dereck22dev&theme=vue-dark&hide_border=false)
+
+</div>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dereck22dev&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
 </div>
