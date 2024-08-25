@@ -1,77 +1,30 @@
-# 👋 **Hi, I'm dereck22** 🚀
+<div align="center">
+  
+## 👋 Hello & Welcome to My GitHub Profile!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3100&color=428bef&lines=Fullstack+Developer;+and+Tech+Enthusiast;+Passionate+about;+DevOps;+CyberSecurity,+VoIP...)
+![Bannière](https://github.com/dereck22dev/dereck22devbanner/raw/main/banner2.png)
 
-## 💫 **About Me:**
-- 🔭 Currently working on **Web Application Development** and **VoIP** projects.
-- 🔮 Aiming to become an expert in **DevSecOps**.
-- 💬 Ask me about **programming**, **VoIP networking**, **Web RTC**, and **CI/CD automation**.
-- 👨‍💻 All of my projects are available here: **[@dereck22dev](https://github.com/dereck22dev)**.
-- 👯 I’m looking to collaborate on **Node.js**, **AI**, **Blockchain**, and **VoIP** projects.
-- ⚡ **Fun fact**: Coding is my passion.
+I'm a passionate **FullStack Developer** with a love for all things tech. Here's a little about me🚀:
 
-## 💻 **Tech Stack:**
+🔭 Currently diving into **Web Applications** and **VoIP** projects.
+💡 Exploring **DevSecOps** to enhance security and efficiency.
+💬 Feel free to ask me about **programming**, **VoIP**, **Web RTC**, and **CI/CD**.
+👨‍💻 Check out my projects and more at **[@dereck22dev](https://github.com/dereck22dev)**.
 
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-  </a>
-   <a href="https://expressjs.com/" target="_blank">
-    <img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express.js"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP"/>
-  </a>
-    <a href="https://laravel.com/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/laravel.png" alt="Laravel"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/console.png" alt="Bash"/>
-  </a>
-  <a title="Marc Spencer / digium, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Asterisk_logo.svg"><img width="80" alt="Asterisk logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Asterisk_logo.svg/512px-Asterisk_logo.svg.png?20151130154544"></a>
-  <a href="https://circleci.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/circleci.png" alt="CircleCI"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
-  </a>
-</p>
+Let's connect and collaborate on exciting projects! 🎯
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amour-dahou) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/amour_dahou) 
+[![profil views](https://visitcount.itsvg.in/api?id=dereck22dev&icon=6&color=8)](https://visitcount.itsvg.in)
 
-## 📊 **GitHub Stats:**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dereck22dev&show_icons=true&theme=github_light)
+</div>
 
-## 🏆 **GitHub Trophies:**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dereck22dev&theme=github_light)
+## 💻 Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Asterisk](https://img.shields.io/badge/asterisk-%23FF9900.svg?style=for-the-badge&logo=asterisk&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=dereck22dev&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dereck22dev&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dereck22dev&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-trophies.vercel.app/?username=dereck22dev&theme=onestar&no-frame=false&no-bg=false&margin-w=5)
