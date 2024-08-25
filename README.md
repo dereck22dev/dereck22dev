@@ -14,7 +14,7 @@ I'm a passionate **FullStack Developer** with a love for all things tech. Here's
 Let's connect and collaborate on exciting projects! 🎯
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amour-dahou) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/amour_dahou) 
-[![profil views](https://visitcount.itsvg.in/api?id=dereck22dev&icon=6&color=8)](https://visitcount.itsvg.in)
+[![profil views](https://visitcount.itsvg.in/api?id=dereck22dev&icon=6&color=8)](https://github.com/dereck22dev)
 
 </div>
 
