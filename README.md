@@ -6,7 +6,7 @@
 
 I'm a passionate **FullStack Developer** with a love for all things tech. Here's a little about me🚀:
 
-🔭 Currently diving into **Web Applications** and **VoIP** projects.
+🔭 I'm currently diving into **Web Applications** and **VoIP** projects.
 💡 Exploring **DevSecOps** to enhance security and efficiency.
 💬 Feel free to ask me about **programming**, **VoIP**, **Web RTC**, and **CI/CD**.
 👨‍💻 Check out my projects and more at **[@dereck22dev](https://github.com/dereck22dev)**.
