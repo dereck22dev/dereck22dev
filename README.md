@@ -4,14 +4,14 @@
 
 ![Bannière](https://github.com/dereck22dev/dereck22devbanner/raw/main/banner2.png)
 
-I'm a passionate **FullStack Developer** with a love for all things tech. Here's a little about me🚀:
+I'm a passionate **FullStack Developer** with a love for all tech things. Here's a little about me🚀:
 
-🔭 I'm currently diving into **Web Applications** and **VoIP** projects.
+🔭 I'm currently working into **Web Applications** and **VoIP** projects.
 💡 Exploring **DevSecOps** to enhance security and efficiency.
 💬 Feel free to ask me about **programming**, **VoIP**, **Web RTC**, and **CI/CD**.
 👨‍💻 Check out my projects and more at **[@dereck22dev](https://github.com/dereck22dev)**.
 
-Let's connect and collaborate on exciting projects! 🎯
+Let's connect if you want collaborate on exciting projects! 🎯
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amour-dahou) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/amour_dahou) 
 [![profil views](https://visitcount.itsvg.in/api?id=dereck22dev&icon=6&color=8)](https://github.com/dereck22dev)
