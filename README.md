@@ -30,7 +30,6 @@ Let's connect if you want collaborate on exciting projects! 🎯
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=dereck22dev&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dereck22dev&theme=dark&border_radius=0" alt="GitHub Streak" /></a>
 </div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dereck22dev&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
