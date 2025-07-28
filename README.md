@@ -1,43 +1,173 @@
 <div align="center">
-  
-## 👋 Hello & Welcome to My GitHub Profile!
 
-![Bannière](https://github.com/dereck22dev/dereck22devbanner/raw/main/banner2.png)
+---
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=111&center=true&vCenter=true&width=900&lines=Hello+and+Welcome+to+My+GitHub!;I'm+Amour+DAHOU;alias+Dereck22%2C+Full-Stack+Developer+%F0%9F%94%A5;Expert+in+Web+Application%2C+VoIP+%26+Automation;Let%27s+Build+Reliable%2C+Secure+Apps+Together+%F0%9F%9A%80" alt="Typing SVG" />
 
-I'm a passionate **FullStack Developer** with a love for all tech things. Here's a little about me🚀:
-
-🔭 I'm currently working into **Web Applications** and **VoIP** projects.
-💡 Exploring **DevSecOps** to enhance security and efficiency.
-💬 Feel free to ask me about **programming**, **VoIP**, **Web RTC**, and all things you want.
-👨‍💻 Check out my projects and more at **[@dereck22dev](https://github.com/dereck22dev)**.
-
-Let's connect if you want collaborate on exciting projects! 🎯
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amour-dahou) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/amour_dahou)
+<!-- Banner -->
+<img src="https://github.com/dereck22dev/dereck22devbanner/raw/main/banner2.png" width="100%" alt="Banner"/>
 
 </div>
 
+---
+
 <div align="center">
   
-## 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Asterisk](https://img.shields.io/badge/asterisk-%23FF9900.svg?style=for-the-badge&logo=asterisk&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/amour-dahou"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/amour_dahou"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://github.com/dereck22dev"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C4B3?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
-<div align="center">
-  
+---
+
+## 🚀 Who Am I?
+
+I'm **Dereck22**, a passionate **Full-Stack Developer** with deep experience in:
+- 🔧 Building scalable & secure applications  
+- ☎️ Designing and deploying **VoIP** systems  
+- ⚙️ Automating workflows and infrastructures  
+- 🖥️ Managing servers and deploying via CI/CD  
+- 🛡️ Applying **DevSecOps** best practices  
+
+---
+
+## 💼 What I Do
+
+- 👨‍💻 Full-Stack Development (Web & API)  
+- 📡 VoIP Systems (Asterisk, FreePBX, SIP, WebRTC)  
+- 🔄 CI/CD Pipelines, Automation & Shell Scripting  
+- 🐧 Server & Network Administration (Debian, Rocky)  
+- 🔒 Secure App Deployment (HTTPS, SSH, Firewall, SNMP)
+
+---
+
+## 🔧 Tech Stack by Category
+
+<details open>
+<summary>🧠 <strong>Backend</strong></summary><br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary>🎨 <strong>Frontend</strong></summary><br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary>☁️ <strong>DevOps & Automation</strong></summary><br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+</details>
+
+<details open>
+<summary>🔒 <strong>Server & Deployment</strong></summary><br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white"/>
+</p>
+</details>
+
+<details open>
+<summary>📞 <strong>VoIP & Communications</strong></summary><br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Asterisk-FF9900?style=for-the-badge&logo=asterisk&logoColor=white"/>
+   <img src="https://img.shields.io/badge/FreePBX-10B981?style=for-the-badge&logo=voip&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SIP-000000?style=for-the-badge"/>
+</p>
+</details>
+
+<details open>
+<summary>🗄️ <strong>Databases</strong></summary><br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-0F6AB0?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+</details>
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔧 [**VoIP Auto-Provisioning Tool**](https://github.com/dereck22dev) | Generates and deploys SIP configs automatically for Asterisk systems | Python, Bash |
+| 🖼️ [**SlideSync**](https://github.com/dereck22dev) | Control digital signage (slideshows) on Raspberry Pi screens via web interface | FastAPI, React, WebSockets |
+| 🧩 [**CIFH CRM**](https://github.com/dereck22dev) | CRM system with roles, trainings, articles, SEO tools | Laravel, Vue.js, Tailwind |
+
+---
+
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dereck22dev&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+<div align="center">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=dereck22dev&show_icons=true&count_private=true&theme=vue-dark&hide_border=false&border_radius=10&custom_title=amour%20dahou's%20GitHub%20Stats" width="48%" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dereck22dev&layout=compact&langs_count=8&theme=vue-dark&hide_border=false&border_radius=10&card_width=380" width="48%" height="200"/>
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dereck22dev&theme=vue-dark&hide_border=false&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="95%" />
+  </p>
 </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dereck22dev&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
+
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dereck22dev&theme=darkhub&no-frame=true&margin-w=15" />
+</p>
+
+---
 
 <div align="center">
   
-## 🏆 GitHub Trophies
+  ## 🤝 Let's Connect
 
-![](https://github-trophies.vercel.app/?username=dereck22dev&theme=onestar&no-frame=false&no-bg=false&margin-w=5)
-
+  <p align="center">
+    <a href="https://linkedin.com/in/amour-dahou"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://twitter.com/amour_dahou"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="https://github.com/dereck22dev"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://your-portfolio.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-00C4B3?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
+  </p>
+  <p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cHc4eDJhNnNucml5emIyOW5xZGxzZzI4dmY1NTBucWE2OThmcTZvaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="96%" />
+  </p>
+  <p align="center">
+    <b>Thanks for visiting!</b> Let’s build something great together! 🚀
+  </p>
 </div>
+
