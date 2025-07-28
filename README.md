@@ -127,7 +127,7 @@ I'm **Dereck22**, a passionate **Full-Stack Developer** with deep experience in:
 | 🔧 [**VoIP Tool**](https://github.com/dereck22dev) | Generates and deploys SIP configs automatically for Asterisk systems | Python,PHP,Javascript, Bash |
 | 🖼️ [**Syspad**](https://syspad.geekdunord.com/) | Test and improve your system administration skills with our interactive challenges and simulations | FastAPI, React, WebSockets |
 | 🧩 [**CIFH Website and CRM**](https://cifh-inter.org) | Website and CRM system with roles, trainings, articles, SEO tools | FastAPI, Reactjs, Tailwind |
-
+| 🧩 [**RestanciaDelice**](https://dereck22dev.github.io/RestanciaDelice-v2/) |  website to present a restaurant's full menu and handle online sales with ease | HTML, CSS, JAVASCRIPT |
 ---
 
 ## 📊 GitHub Stats
