@@ -137,17 +137,17 @@ I'm **Dereck22**, a passionate **Full-Stack Developer** with deep experience in:
       <td>Python, PHP, JavaScript, Bash</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/dereck22dev/syspad">🖥️ Syspad</a></td>
+      <td><a href="https://syspad.geekdunord.com">🖥️ Syspad</a></td>
       <td>Test and improve your system administration skills with our interactive challenges and simulations</td>
       <td>FastAPI, React, WebSockets</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/dereck22dev/cifh-crm">🌿 CIFH Website and CRM</a></td>
+      <td><a href="https://cifh-inter.org">🌿 CIFH Website and CRM</a></td>
       <td>Website and CRM system with roles, trainings, articles, SEO tools</td>
       <td>FastAPI, ReactJs, Tailwind</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/dereck22dev/restancia-delice">🍽️ RestanciaDelice</a></td>
+      <td><a href="https://dereck22dev.github.io/RestanciaDelice-v2/">🍽️ RestanciaDelice</a></td>
       <td>Website to present a restaurant's full menu and handle online sales with ease</td>
       <td>HTML, CSS, JavaScript</td>
     </tr>
