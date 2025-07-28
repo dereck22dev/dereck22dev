@@ -2,7 +2,7 @@
 
 ---
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=111&center=true&vCenter=true&width=900&lines=Hello+and+Welcome+to+My+GitHub!;I'm+Amour+DAHOU;alias+Dereck22%2C+Full-Stack+Developer+%F0%9F%94%A5;Expert+in+Web+Application%2C+VoIP+%26+Automation;Let%27s+Build+Reliable%2C+Secure+Apps+Together+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=111&center=true&vCenter=true&width=900&lines=Hello+and+Welcome+to+My+GitHub!;I'm+Amour+DAHOU;alias+Dereck22%2C+Full-Stack+Developer+%F0%9F%94%A5;With+expertise+in+Web+Application%2C+VoIP+%26+Automation;Let%27s+Build+Reliable%2C+Secure+Apps+Together+%F0%9F%9A%80" alt="Typing SVG" />
 
 <!-- Banner -->
 <img src="https://github.com/dereck22dev/dereck22devbanner/raw/main/banner2(1).webp" width="100%" alt="Banner"/>
