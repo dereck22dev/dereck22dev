@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=111&center=true&vCenter=true&width=900&lines=Hello+and+Welcome+to+My+GitHub!;I'm+Amour+DAHOU;alias+Dereck22%2C+Full-Stack+Developer+%F0%9F%94%A5;Expert+in+Web+Application%2C+VoIP+%26+Automation;Let%27s+Build+Reliable%2C+Secure+Apps+Together+%F0%9F%9A%80" alt="Typing SVG" />
 
 <!-- Banner -->
-<img src="https://github.com/dereck22dev/dereck22devbanner/raw/main/banner2.png" width="100%" alt="Banner"/>
+<img src="https://github.com/dereck22dev/dereck22devbanner/raw/main/banner2(1).webp" width="100%" alt="Banner"/>
 
 </div>
 
@@ -124,9 +124,9 @@ I'm **Dereck22**, a passionate **Full-Stack Developer** with deep experience in:
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔧 [**VoIP Auto-Provisioning Tool**](https://github.com/dereck22dev) | Generates and deploys SIP configs automatically for Asterisk systems | Python, Bash |
-| 🖼️ [**SlideSync**](https://github.com/dereck22dev) | Control digital signage (slideshows) on Raspberry Pi screens via web interface | FastAPI, React, WebSockets |
-| 🧩 [**CIFH CRM**](https://github.com/dereck22dev) | CRM system with roles, trainings, articles, SEO tools | Laravel, Vue.js, Tailwind |
+| 🔧 [**VoIP Auto-Provisioning Tool**](https://github.com/dereck22dev) | Generates and deploys SIP configs automatically for Asterisk systems | Python,PHP,Javascript, Bash |
+| 🖼️ [**Syspad**](https://syspad.geekdunord.com/) | Test and improve your system administration skills with our interactive challenges and simulations | FastAPI, React, WebSockets |
+| 🧩 [**CIFH Website and CRM**](https://cifh-inter.org) | Website and CRM system with roles, trainings, articles, SEO tools | FastAPI, Reactjs, Tailwind |
 
 ---
 
