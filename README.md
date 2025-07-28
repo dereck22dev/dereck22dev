@@ -19,7 +19,7 @@
   <a href="https://linkedin.com/in/amour-dahou"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/amour_dahou"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://github.com/dereck22dev"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="https://github.com/dereck22dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C4B3?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -122,12 +122,44 @@ I'm **Dereck22**, a passionate **Full-Stack Developer** with deep experience in:
 
 ## 📂 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔧 [**VoIP Tool**](https://github.com/dereck22dev) | Generates and deploys SIP configs automatically for Asterisk systems | Python,PHP,Javascript, Bash |
-| 🖼️ [**Syspad**](https://syspad.geekdunord.com/) | Test and improve your system administration skills with our interactive challenges and simulations | FastAPI, React, WebSockets |
-| 🧩 [**CIFH Website and CRM**](https://cifh-inter.org) | Website and CRM system with roles, trainings, articles, SEO tools | FastAPI, Reactjs, Tailwind |
-| 🧩 [**RestanciaDelice**](https://dereck22dev.github.io/RestanciaDelice-v2/) |  website to present a restaurant's full menu and handle online sales with ease | HTML, CSS, JAVASCRIPT |
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/dereck22dev/voip-tool">🔧 VoIP Tool</a></td>
+      <td>Generates and deploys SIP configs automatically for Asterisk systems</td>
+      <td>Python, PHP, JavaScript, Bash</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/dereck22dev/syspad">🖥️ Syspad</a></td>
+      <td>Test and improve your system administration skills with our interactive challenges and simulations</td>
+      <td>FastAPI, React, WebSockets</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/dereck22dev/cifh-crm">🌿 CIFH Website and CRM</a></td>
+      <td>Website and CRM system with roles, trainings, articles, SEO tools</td>
+      <td>FastAPI, ReactJs, Tailwind</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/dereck22dev/restancia-delice">🍽️ RestanciaDelice</a></td>
+      <td>Website to present a restaurant's full menu and handle online sales with ease</td>
+      <td>HTML, CSS, JavaScript</td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center">
+  <a href="https://github.com/dereck22dev" target="_blank">
+    <img src="https://img.shields.io/badge/See%20more%20projects-00C4B3?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -161,7 +193,7 @@ I'm **Dereck22**, a passionate **Full-Stack Developer** with deep experience in:
     <a href="https://linkedin.com/in/amour-dahou"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://twitter.com/amour_dahou"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
     <a href="https://github.com/dereck22dev"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://your-portfolio.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-00C4B3?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
+    <a href="https://github.com/dereck22dev" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-00C4B3?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
   </p>
   <p align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cHc4eDJhNnNucml5emIyOW5xZGxzZzI4dmY1NTBucWE2OThmcTZvaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="96%" />
