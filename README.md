@@ -19,7 +19,7 @@
   <a href="https://linkedin.com/in/amour-dahou"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/amour_dahou"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://github.com/dereck22dev"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/dereck22dev" target="_blank">
+  <a href="https://dereck22dev.geekdunord.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C4B3?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -193,7 +193,7 @@ I'm **Dereck22**, a passionate **Full-Stack Developer** with deep experience in:
     <a href="https://linkedin.com/in/amour-dahou"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://twitter.com/amour_dahou"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
     <a href="https://github.com/dereck22dev"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://github.com/dereck22dev" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-00C4B3?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
+    <a href="https://dereck22dev.geekdunord.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-00C4B3?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
   </p>
   <p align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cHc4eDJhNnNucml5emIyOW5xZGxzZzI4dmY1NTBucWE2OThmcTZvaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="96%" />
