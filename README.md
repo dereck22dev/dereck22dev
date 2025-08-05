@@ -155,7 +155,7 @@ I'm **Dereck22**, a passionate **Full-Stack Developer** with deep experience in:
 </table>
 
 <p align="center">
-  <a href="https://github.com/dereck22dev" target="_blank">
+  <a href="https://github.com/dereck22dev?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/See%20more%20projects-00C4B3?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
