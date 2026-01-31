@@ -33,8 +33,7 @@
 I'm **Dereck22**, a passionate **Full-Stack Developer** with deep experience in:
 - 🔧 Building scalable & secure applications  
 - ☎️ Designing and deploying **VoIP** systems  
-- ⚙️ Automating workflows and infrastructures  
-- 🖥️ Managing servers and deploying via CI/CD  
+- ⚙️ Automating workflows and infrastructures 
 - 🛡️ Applying **DevSecOps** best practices  
 
 ---
@@ -44,7 +43,6 @@ I'm **Dereck22**, a passionate **Full-Stack Developer** with deep experience in:
 - 👨‍💻 Full-Stack Development (Web & API)  
 - 📡 VoIP Systems (Asterisk, FreePBX, SIP, WebRTC)  
 - 🔄 CI/CD Pipelines, Automation & Shell Scripting  
-- 🐧 Server Administration (Debian, Rocky)  
 - 🔒 Secure App Deployment (HTTPS, SSH, Firewall, SNMP)
 
 ---
